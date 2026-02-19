@@ -17,4 +17,8 @@
 
 `// tag-name [ @attribute = 'attribute-value' ]`
 
+# CSS-FORMAT:
+
+`tag-name[ attribute = 'attribute-value']`
+
 
