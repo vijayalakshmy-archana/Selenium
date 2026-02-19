@@ -19,9 +19,9 @@
 
 ## Examples
 
-//a, //button, //input
-//*[@class='large-button']
-//*[@id='search-button']
+- //a, //button, //input
+- //*[@class='large-button']
+- //*[@id='search-button']
 
 # CSS-FORMAT:
 
@@ -29,8 +29,8 @@
 
 ## Examples
 
-tag-name -> a, button, input
-class ->  .large-button
-id -> #search-button
+- tag-name -> a, button, input
+- class ->  .large-button
+- id -> #search-button
 
 
