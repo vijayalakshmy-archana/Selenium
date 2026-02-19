@@ -12,3 +12,9 @@
 <img width="877" height="785" alt="image" src="https://github.com/user-attachments/assets/dc7228c4-cb5e-4ba1-a9ca-e98072fbd833" />
 
 
+
+# X-PATH FORMAT:
+
+`// tag-name [ @attribute = 'attribute-value' ]`
+
+
