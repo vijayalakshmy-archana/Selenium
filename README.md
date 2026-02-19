@@ -17,8 +17,20 @@
 
 `// tag-name [ @attribute = 'attribute-value' ]`
 
+## Examples
+
+//a, //button, //input
+//*[@class='large-button']
+//*[@id='search-button']
+
 # CSS-FORMAT:
 
 `tag-name[ attribute = 'attribute-value']`
+
+## Examples
+
+tag-name -> a, button, input
+class ->  .large-button
+id -> #search-button
 
 
