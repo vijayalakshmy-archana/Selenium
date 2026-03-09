@@ -27,6 +27,14 @@
 
 `tag-name[ attribute = 'attribute-value']`
 
+
+# Shadow Root
+
+ def click_date(self):
+        shadow_host = self.driver.find_element(By.XPATH, "//wdpr-lodging-quickquote[@id='lodging-qq-container']")
+        shadow_root = shadow_host.shadow_root
+        shadow_content = shadow_root.find_element(By.ID, "findPricesButton")
+
 ## Examples
 
 - tag-name -> a, button, input
