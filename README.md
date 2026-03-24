@@ -52,5 +52,9 @@ def click_date(self):
 
 ![Uploading image.png…]()
 
+## Pytest install
+
+python -m pip install pytest
+
 
 
