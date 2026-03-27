@@ -56,5 +56,10 @@ def click_date(self):
 
 python -m pip install pytest
 
+## Helper
+
+Select a block of codes without function ---> right click refactor--> extract .
+Then select a block of code with function ---> then click refactor ---> move
+
 
 
