@@ -61,5 +61,10 @@ python -m pip install pytest
 Select a block of codes without function ---> right click refactor--> extract .
 Then select a block of code with function ---> then click refactor ---> move
 
+## Pytest Paramaterize
+
+@pytest.mark.parametrize("user_name, password", [("admin", "admin"), ("user", "pass")])
+
+
 
 
